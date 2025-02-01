@@ -10,7 +10,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Leer datos de Excel
-#df_cultivos = pd.read_excel('ruta_al_archivo/datos_cultivos.xlsx', sheet_name='Cultivos')
 df_cultivos = pd.read_excel('datos/datos_cultivos.xlsx', sheet_name='Cultivos')
 
 
